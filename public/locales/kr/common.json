@@ -1,0 +1,70 @@
+{
+    "home": {},
+    "sideMenu": {
+        "Home": "Home",
+        "Play": "Play",
+        "Marketplace": "Marketplace",
+        "My Assets": "My Assets"
+    },
+    "play": {
+        "Dog Mint Page Name": "Mint Dog",
+        "Land Mint Page Name": "Mint Land",
+        "Dog Mint Title": "Mint Dog NFTs",
+        "Dog Mint SubTitle": "Choose a dog to accompany you. Dog NFTs ownable are shown below.",
+        "Land Mint Title": "Mint Land NFTs",
+        "Land Mint SubTitle": "Choose a land to accompany you. Land NFTs ownable are shown below.",
+        "Mint Progress": "Mint Progress",
+        "Mint": "Mint",
+        "Mint Description": "Mint Legend NFT to get a chance to mint Mythical by 0.01%."
+    },
+    "rental": {
+        "Rental": "Rental",
+        "Earn Together": "Earn Together"
+    },
+    "header": {
+        "Download alpha": "Download alpha",
+        "Sign In": "Sign In"
+    },
+    "cart": {
+        "Title": "Shopping cart",
+        "ETHEREUM NETWORK": "ETHEREUM NETWORK",
+        "Total Cart": "Total Cart",
+        "Total": "Total",
+        "Description": "*The price and availability of items in Zomfi are subject to change. The Cart is a temporary place to store a list of your items and reflectd each item’s most recent price.",
+        "No Cart Item": "Add items to your cart and start buying!",
+        "Go To Market": "Go To Market",
+        "Confirm Delete": "Are you sure you want to delete?"
+    },
+    "marketplace": {
+        "Dog NFT": "Dog NFT",
+        "Land NFT": "Land NFT",
+        "Marketplace Welcome": "Welcome to the NFT Marketplace",
+        "Description": "Discover Collections, get Equipment, or find assets to build your own unique Experiences."
+    },
+    "community": {
+        "Community Title": "Join our community",
+        "Community SubTitle": "Be part of our amazing community and stay tuned for any news.",
+        "Join Us": "Join Us"
+    },
+    "footer": {
+        "FOLLOW US": "FOLLOW US",
+        "News": "News",
+        "Create": "Create",
+        "Market": "Market",
+        "Play": "Play",
+        "Whitepaper": "Whitepaper",
+        "Map": "Map",
+        "Sand": "Sand",
+        "Press": "Press",
+        "Partners": "Partners",
+        "Terms of use": "Terms of use",
+        "One Pager": "One Pager",
+        "FAQ": "FAQ",
+        "Careers": "Careers",
+        "Licenses": "Licenses",
+        "Privacy Policy": "Privacy Policy"
+    },
+    "common": {
+        "Search": "Search"
+    }
+}
